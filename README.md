@@ -12,7 +12,7 @@ The goal of this homework project was to implement an efficient B+ Tree to work 
 # Features
 The following menu is used for interacting with the Movie DB through the B+ Tree.
 
-![alt text](./img/menu.svg)
+![Program Menu](./img/menu.svg)
 
 # Program Breakdown
 ## Create DB
