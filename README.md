@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/zivkovicmilos/BinarySearchTree/master/img/BannerImg.jpg)
+![alt text](https://github.com/zivkovicmilos/BPlusTree/tree/master/img/BannerImg.jpg)
 
 # Project Description
 The goal of this homework project was to implement an efficient B+ Tree to work with a given Movie Database (obtained from The Movie Database (TMDb), in .csv format). The following conditions are set specified:
